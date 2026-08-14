@@ -15,5 +15,3 @@
 <b>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿</b>
 <b>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</b>
 </pre>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-ho1&layout=compact&hide=html,css&theme=dark" alt="Top languages" />

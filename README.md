@@ -6,8 +6,8 @@
 <b>⣿⣿⣿⣿⢸⣿⣦⡄⣿⠀⣿⡟⢿⣿⡆⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿</b>   <b>LinkedIn</b>: <a href="https://linkedin.com/in/gavin-ho1">gavin-ho1</a>
 <b>⣿⣿⣿⣿⢸⣧⡈⠃⣿⠀⣿⣧⣀⣿⡇⢸⡇⠀⠀⠀⢸⣿⠿⢿⢿⣿⣿⣿⣿⣿</b>   <b>Languages & Tools</b>: Python, C++, JavaScript, Solidity, Vim
 <b>⣿⣿⣿⣿⢸⡏⠻⠇⠛⣀⠻⣿⣿⣿⣧⣾⡇⠀⠀⠀⢸⣿⠰⣶⠀⠉⠻⣿⣿⣿</b>   <b>Projects</b>:
-<b>⣿⣿⣿⣿⠘⢋⣠⣶⣿⣿⣷⣌⡛⢿⣿⣿⡇⠀⠀⠀⢸⣿⣷⣝⠀⠀⠀⣿⣿⣿</b>     ⁃ <a href="https://github.com/gavin-ho1/wharton-investment-comp">Wharton Investment Competition</a>
-<b>⣿⣿⣿⣿⣶⣌⠻⣿⣿⣿⣿⣿⣿⣦⡙⠿⡇⠀⠀⠀⢸⣿⣿⣿⣆⡀⠀⣿⣿⣿</b>     ⁃ <a href="https://github.com/gavin-ho1/canvas-gpa-calculator">Canvas GPA Calculator</a>
+<b>⣿⣿⣿⣿⠘⢋⣠⣶⣿⣿⣷⣌⡛⢿⣿⣿⡇⠀⠀⠀⢸⣿⣷⣝⠀⠀⠀⣿⣿⣿</b>     • <a href="https://github.com/gavin-ho1/wharton-investment-comp">Wharton Investment Competition</a>
+<b>⣿⣿⣿⣿⣶⣌⠻⣿⣿⣿⣿⣿⣿⣦⡙⠿⡇⠀⠀⠀⢸⣿⣿⣿⣆⡀⠀⣿⣿⣿</b>     • <a href="https://github.com/gavin-ho1/canvas-gpa-calculator">Canvas GPA Calculator</a>
 <b>⣿⣿⣿⣿⣿⣿⣷⣤⡙⢿⣿⣿⣿⣿⣿⠷⠀⠀⠀⠀⠸⢿⣿⣿⣿⣿⣦⣿⣿⣿</b>
 <b>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠈⠻⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿</b>
 <b>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿</b>

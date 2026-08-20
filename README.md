@@ -1,4 +1,4 @@
-<img src="profile.png" height="220" alt="Gavin Ho photo" align="left"><samp>
+<img src="profile.png" height="210" alt="Gavin Ho photo" align="left"><samp>
 <b>gavin-ho1@github</b><br>
 ────────────────<br>
 <b>Name</b>: Gavin Ho<br>
